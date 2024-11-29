@@ -17,37 +17,38 @@ Welcome to the **Coffee Application**, your one-stop solution for managing coffe
 
 ### **1. Dashboard**
 Explore the app's key features with an intuitive and visually appealing dashboard.  
-![Dashboard](https://via.placeholder.com/800x400.png?text=Dashboard+Screenshot)
+![s2](https://github.com/user-attachments/assets/fafc9c8c-475c-4b10-8914-6e394b3a8e00)
 
 ---
 
 ### **2. Login Page**
 Sign up or log in securely using Firebase Authentication.  
-![Login Page](https://via.placeholder.com/800x400.png?text=Login+Page+Screenshot)
+![s1](https://github.com/user-attachments/assets/c748b4ae-534d-4061-b719-148b567e7fff)
+
 
 ---
 
 ### **3. About Page**
 Learn about our mission and values in the beautifully crafted About page.  
-![About Page](https://via.placeholder.com/800x400.png?text=About+Page+Screenshot)
+![s6](https://github.com/user-attachments/assets/25995bb6-6d00-4898-8990-2a4633b5e3fc)
 
 ---
 
 ### **4. Cart Page**
 Review and manage your orders with a sleek cart interface.  
-![Cart Page](https://via.placeholder.com/800x400.png?text=Cart+Page+Screenshot)
+![s4](https://github.com/user-attachments/assets/2dde6431-b429-4793-8966-a6150eaa7a76)
 
 ---
 
 ### **5. Our Products**
 Explore our wide range of premium coffee products.  
-![Products Page](https://via.placeholder.com/800x400.png?text=Products+Page+Screenshot)
+![s3](https://github.com/user-attachments/assets/24fa06fd-3bd3-4858-a05c-97c92aee47dc)
 
 ---
 
 ### **6. Testimonials**
 Hear what our happy customers have to say about us.  
-![Testimonials](https://via.placeholder.com/800x400.png?text=Testimonials+Screenshot)
+![s5](https://github.com/user-attachments/assets/b8a2fd44-6b73-42a1-ba07-b30aa920d890)
 
 ---
 
